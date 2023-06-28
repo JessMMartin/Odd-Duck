@@ -30,6 +30,12 @@ h1 {
   justify-content: center;
   flex-wrap: wrap;
 }
+.no-voting {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 .product {
   overflow: hidden;
